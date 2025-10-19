@@ -15,7 +15,12 @@ We have rank-based trainings for every member of the department where they can r
 
 and more.
 
+Click on which phase you would like to hold a training for and view its documentation below:
+
 .. toctree::
   :maxdepth: 1
 
+  announcing_a_training
   phase_1
+  phase_2
+  phase_3
