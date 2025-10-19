@@ -6,7 +6,7 @@ You are to run these in https://discord.com/channels/1424336438732001361/1425003
 
 **Phase 1:**
 
-.. code-block:: txt
+.. code-block:: shell
   # <:NSWAS:1425045625279479859> // Phase 1 Notification
   If you are currently in <@&1424992893713514596>, please react below to mark your attendance of this training.
   
@@ -18,7 +18,7 @@ You are to run these in https://discord.com/channels/1424336438732001361/1425003
 
 **Phase 2:**
 
-.. code-block:: txt
+.. code-block:: shell
   # <:NSWAS:1425045625279479859> // Phase 2 Notification
   If you are currently in <@&1424992268443455638>, please react below to mark your attendance of this training.
   
@@ -30,7 +30,7 @@ You are to run these in https://discord.com/channels/1424336438732001361/1425003
 
 **Phase 3:**
 
-.. code-block:: txt
+.. code-block:: shell
   # <:NSWAS:1425045625279479859> // Phase 3 Notification
   If you are currently in <@&1424992267860574268>, please react below to mark your attendance of this training.
   
@@ -42,7 +42,7 @@ You are to run these in https://discord.com/channels/1424336438732001361/1425003
 
 **Phase 4:**
 
-.. code-block:: txt
+.. code-block:: shell
   # <:NSWAS:1425045625279479859> // Phase 4 Notification
   If you are currently in <@&1425460267218764060>, please react below to mark your attendance of this training.
   
